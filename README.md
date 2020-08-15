@@ -14,7 +14,7 @@
 - 🥀 Learning PostgreSQL, Flutter
 - 🌱 I’m currently learning Full Stack Development, App Development 🚀.
 - 💻 I have worked on Python, JavaScript, Dart
-- 🛸 Lost into programming and solving problems !
+- 🛸 Lost into the world of programming and solving problems !
 <br/>
 
 **I am Into**
