@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=saran-surya)
 
 ### Hi there, I'm Saran.
-### I'm a self-taught M.E.R.N stack developer, and a Flutter developer.
+### I'm a self-taught M.E.R.N stack, and a Flutter developer.
 ### I love automating stuff with Python
 
 
