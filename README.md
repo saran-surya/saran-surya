@@ -11,10 +11,10 @@
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, PostgreSQL, MongoDB, etc 💻.
+- 🔭 I’m currently working on Node.js, Express.js, React, PostgreSQL, MongoDB, Flutter, etc 💻.
 - 🥀 Learning PostgreSQL, Flutter
-- 🌱 I’m currently learning Full Stack Development, App Development 🚀.
-- 💻 I have worked on Python, JavaScript, Dart
+- 🌱 I’m currently into Full Stack and App Development 🚀.
+- 💻 I have worked on Python, JavaScript, Dart, VB Script, Flutter
 - 🛸 Lost into the world of programming and solving problems !
 <br/>
 
