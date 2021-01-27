@@ -63,10 +63,10 @@
 | [Two Step Auth](https://www.npmjs.com/package/two-step-auth) | Provides OTP verification system via Email (NODE.JS) | [![NPM](https://nodei.co/npm/two-step-auth.png?mini=true)](https://npmjs.org/package/two-step-auth) |
 
 
-
+### The Stats 🚴‍♂️
 ![](https://komarev.com/ghpvc/?username=saran-surya)<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&theme=dark" width=420/> <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark&hide=css"> <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&theme=dark" width=420/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark&hide=css">
 
 <!--- ### Hi there, I'm Saran.
 ### I'm a self-taught M.E.R.N stack, and a Flutter developer.
