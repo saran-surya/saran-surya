@@ -64,9 +64,11 @@
 
 
 ### The Stats 🚴‍♂️
-![](https://komarev.com/ghpvc/?username=saran-surya)<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&theme=dark" width=420/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark">
+<p align = 'center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&theme=dark" width=420/> <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark&hide=css">
+</p>
+
 
 <!--- ### Hi there, I'm Saran.
 ### I'm a self-taught M.E.R.N stack, and a Flutter developer.
