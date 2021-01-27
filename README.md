@@ -65,7 +65,7 @@
 
 ### The Stats 🚴‍♂️
 <p align = 'center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&theme=dark" width=420/> <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&theme=dark" width=420/> <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark&hide=css">
 </p>
 
