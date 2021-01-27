@@ -69,6 +69,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark&hide=css">
 </p>
 
+![](https://komarev.com/ghpvc/?username=saran-surya)<br/>
 
 <!--- ### Hi there, I'm Saran.
 ### I'm a self-taught M.E.R.N stack, and a Flutter developer.
