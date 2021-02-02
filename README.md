@@ -2,6 +2,7 @@
   Hey Hello, I am Saran Surya 👋
   <br/>
   <h4 align = 'center'>I am a self taught Full stack and Flutter Developer.</h4>
+  <h4 align = 'center'>A python Enthusiast, and a Competetive Coder </h4>
 </h1>
 <h4 align = 'center'>Get in touch 🌐</h4>
 <p align='center'>  
@@ -63,14 +64,16 @@
 | [Two Step Auth](https://www.npmjs.com/package/two-step-auth) | Provides OTP verification system via Email (NODE.JS) | [![NPM](https://nodei.co/npm/two-step-auth.png?mini=true)](https://npmjs.org/package/two-step-auth) |
 
 
-### The Stats 🚴‍♂️
+#### The Stats 🚴‍♂️
 <p align = 'center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&theme=dark" width=420/> <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark&hide=css">
 </p>
 
-![](https://komarev.com/ghpvc/?username=saran-surya)<br/>
+  
+## People Visiting Me ![](https://komarev.com/ghpvc/?username=saran-surya)<br/>
 
+<h3 align = 'center'>Thank You 💚</h3>
 <!--- ### Hi there, I'm Saran.
 ### I'm a self-taught M.E.R.N stack, and a Flutter developer.
 ### I love automating stuff with Python
@@ -88,4 +91,3 @@
 <br />
 ![Saran Sruya's Github Stats](https://github-readme-stats.vercel.app/api?username=saran-surya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) --- !>
 
-#### Thank You 💚 
