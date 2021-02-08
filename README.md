@@ -73,7 +73,7 @@
 
 | Name                    | Description                                  | Install         |
 | ----------------------- | -------------------------------------------- | --------------- |
-| [email_auth](https://pub.dev/packages/email_auth) | Easily implement a OTP verification service with a plug and play dart class |dependencies:<br/>&nbsp; email_auth: ^0.0.1+1.7|
+| [email_auth](https://pub.dev/packages/email_auth) | Easily implement a OTP verification service in Flutter Applications with a plug and play dart class |dependencies:<br/>&nbsp; email_auth: ^0.0.1+1.7|
 
 #### The Stats 🚴‍♂️
 <p align = 'center'>
