@@ -69,6 +69,11 @@
 | ----------------------- | -------------------------------------------- | --------------- |
 | [Certificate gen](https://pypi.org/project/certificate-gen/) | Easily generate E-Certificates and dispatch through Mail (only needed CSV and template)|[pip install certificate-gen](https://pypi.org/project/certificate-gen/)|
 
+<h3 align='center'>📦 My Dart Packages</h3> 
+
+| Name                    | Description                                  | Install         |
+| ----------------------- | -------------------------------------------- | --------------- |
+| [email_auth](https://pub.dev/packages/email_auth) | Easily implement a OTP verification service with a plug and play dart class |dependencies:<br/>&nbsp; email_auth: ^0.0.1+1.7|
 
 #### The Stats 🚴‍♂️
 <p align = 'center'>
