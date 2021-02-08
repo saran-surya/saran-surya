@@ -56,20 +56,22 @@
 <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p> 
 
-<h3 align='center'>📦 My Node JS Packages</h3> 
+## My Contributions ⛳
+
+<h3 align='center'>📦 My <img src = 'https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'> Packages</h3> 
 
 | Name                 | Description                              | Install |
 | -------------------- | -------------------------------------------- | ------------ |
 | [Mongo Image Converter](https://www.npmjs.com/package/mongo-image-converter) | Easy work around approach to save images to Mongo DB | [![NPM](https://nodei.co/npm/mongo-image-converter.png?mini=true)](https://npmjs.org/package/mongo-image-converter) |
 | [Two Step Auth](https://www.npmjs.com/package/two-step-auth) | Provides OTP verification system via Email (NODE.JS) | [![NPM](https://nodei.co/npm/two-step-auth.png?mini=true)](https://npmjs.org/package/two-step-auth) |
 
-<h3 align='center'>📦 My Python Packages</h3> 
+<h3 align='center'>📦 My <img src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'> Packages</h3> 
 
 | Name                    | Description                                  | Install         |
 | ----------------------- | -------------------------------------------- | --------------- |
 | [Certificate gen](https://pypi.org/project/certificate-gen/) | Easily generate E-Certificates and dispatch through Mail (only needed CSV and template)|[pip install certificate-gen](https://pypi.org/project/certificate-gen/)|
 
-<h3 align='center'>📦 My Dart Packages</h3> 
+<h3 align='center'>📦 My <img src = 'https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'> Packages</h3> 
 
 | Name                    | Description                                  | Install         |
 | ----------------------- | -------------------------------------------- | --------------- |
