@@ -64,6 +64,7 @@
 | -------------------- | -------------------------------------------- | ------------ |
 | [Mongo Image Converter](https://www.npmjs.com/package/mongo-image-converter) | Easy work around approach to save images to Mongo DB | [![NPM](https://nodei.co/npm/mongo-image-converter.png?mini=true)](https://npmjs.org/package/mongo-image-converter) |
 | [Two Step Auth](https://www.npmjs.com/package/two-step-auth) | Provides OTP verification system via Email (NODE.JS) | [![NPM](https://nodei.co/npm/two-step-auth.png?mini=true)](https://npmjs.org/package/two-step-auth) |
+| [Auth Setup](https://www.npmjs.com/package/auth-setup) | A framework mixed with python to set express servers for email verification (NODE.JS) | [![NPM](https://nodei.co/npm/auth-setup.png?mini=true)](https://npmjs.org/package/auth-setup) |
 
 <h3 align='center'>📦 <img src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'> Packages</h3> 
 
