@@ -1,8 +1,8 @@
 <h1 align='center'>
   Hey Hello, I am Saran Surya 👋
   <br/>
-  <h4 align = 'center'>I am a self taught Full stack and Flutter Developer.</h4>
-  <h4 align = 'center'>A python Enthusiast, and a Competetive Programmer </h4>
+  <h3 align = 'center'>I am a self taught Full stack and Flutter Developer.</h3>
+  <h3 align = 'center'>A python Enthusiast, and a Competetive Programmer </3>
 </h1>
 <h4 align = 'center'>Get in touch 🌐</h4>
 <p align='center'>  
