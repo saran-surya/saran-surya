@@ -85,7 +85,7 @@
 </p>
 
   
-## People Visiting Me ![](https://komarev.com/ghpvc/?username=saran-surya)<br/>
+![](https://komarev.com/ghpvc/?username=saran-surya)<br/>
 
 <h3 align = 'center'>Thank You 💚</h3>
 <!--- ### Hi there, I'm Saran.
