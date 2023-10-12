@@ -14,6 +14,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
+[![An image of @saransurya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saransurya)](https://holopin.io/@saransurya)
+
 ### My Dev stack 👨‍💻
 <p align='center'>
 <img src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
